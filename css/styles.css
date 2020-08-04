@@ -1,0 +1,88 @@
+/*color pallette: 
+// orange: #FF914D
+// yellow: #FFCC4D
+// light-green: #77B255
+// green: #5C913B
+*/
+
+body{
+	background-color: #FFCC4D ;
+	
+}
+
+#header-nav{
+	background-color: #FF914D;
+	padding:0;
+}
+
+#logo-img{
+    width: 200px;
+    height: 200px;
+    margin: 0 15px 0 0;
+}
+
+
+
+.navbar-brand div {
+  font-family: 'Lobster', cursive;
+  color: #5C913B;
+  font-size: 60px;
+
+}
+
+#nav-list {
+	font-size: 30px;
+	margin-top: 10px;
+	position: relative;
+	top: 75px;
+}
+
+#nav-list li a {
+	margin: 10px;
+	color: #5C913B;
+	text-align: center;
+}
+
+#nav-list li a:hover {
+	text-decoration:none;
+	color: #77B255;
+}
+
+/*END OF HEADER*/
+
+h1{
+	color: #5C913B;
+	margin-top:20px;
+}
+
+#about-container{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right:auto;
+	margin-left:auto;
+	background-color:#FFCC4D;
+}
+
+#about{
+	color: #5C913B;
+	font-size: 30px;		
+}
+
+#anchor{
+	margin: 20px;
+}
+
+.carousel {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right:auto;
+	margin-left:auto;
+	width: 600px;
+    height: 400px;
+}
+
+.carousel img{
+	margin:auto;
+}
+
+
